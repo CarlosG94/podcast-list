@@ -1,6 +1,8 @@
 # Favorite Podcast Episodes
 
 
+These are podcasts that I've found truly insightful. It's a growing list. I cannot recomend each of these enough.
+
 
 ### *Sam Harris – Waking Up*:
 
