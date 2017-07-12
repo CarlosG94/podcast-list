@@ -1,7 +1,9 @@
 #Favorite Podcast Episodes
 
 
+
 ###*Sam Harris – Waking Up*:
+
 -[Landscapes of mind](https://www.samharris.org/podcast/item/landscapes-of-mind)
 
 -[Pesuasion and Control](https://www.samharris.org/podcast/item/persuasion-and-control)
@@ -17,6 +19,7 @@
 -[The Dawn of Artificial Intelligence](https://www.samharris.org/podcast/item/the-dawn-of-artificial-intelligence1)
 
 ###*a16z Podcast*:
+
 -[Companies, Networks, Crowds](https://a16z.com/2017/06/28/machine-platform-crowd/)
 
 -[Changing the Way We Talk About Cybersecurity](https://a16z.com/2017/06/16/cybersecurity-conversation-metaphors-policy/)
@@ -42,6 +45,7 @@
 -[Drones for Delivery in Healthcare](https://a16z.com/2016/11/25/delivery-drones-healthcare-zipline/)
 
 ###*Tim Ferris*:
+
 -[The Evolutionary Angel](http://tim.blog/2015/08/18/the-evolutionary-angel-naval-ravikant/)
 
 -[The Quiet Master of Cryptocurrency](http://tim.blog/2017/06/04/nick-szabo/)
@@ -55,6 +59,7 @@
 -[Interview with Peter Thiel, Billionaire Investor and Company Creator](http://tim.blog/2014/09/09/peter-thiel/)
 
 ###*Jacob Morgan – The Future of Work:*
+
 -[A Brief History of Tomorrow](https://thefutureorganization.com/brief-history-tomorrow/#)
 
 ### *TED Radio Hour:*
