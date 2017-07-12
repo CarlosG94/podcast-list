@@ -6,9 +6,9 @@ These are podcasts that I've found truly insightful. It's a growing list. I cann
 
 ### *Sam Harris – Waking Up*:
 
--[Landscapes of mind](https://www.samharris.org/podcast/item/landscapes-of-mind)
+-[Landscapes of Mind](https://www.samharris.org/podcast/item/landscapes-of-mind)
 
--[Pesuasion and Control](https://www.samharris.org/podcast/item/persuasion-and-control)
+-[Persuasion and Control](https://www.samharris.org/podcast/item/persuasion-and-control)
 
 -[What is Technology Doing to Us?](https://www.samharris.org/podcast/item/what-is-technology-doing-to-us)
 
