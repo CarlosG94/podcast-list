@@ -68,3 +68,6 @@ These are podcasts that I've found truly insightful. It's a growing list. I cann
 -[Screen Time - Part I ](https://www.npr.org/rss/podcast.php?id=510298)[ - and II](https://www.npr.org/rss/podcast.php?id=510298)
 
 -[Big Data Revolution](https://www.npr.org/rss/podcast.php?id=510298)
+
+### *James Altucher:*
+-[The Largest Transfer of Wealth in History](https://player.fm/series/the-james-altucher-show/ep-263-naval-ravikant-the-largest-transfer-of-wealth-in-human-history)
