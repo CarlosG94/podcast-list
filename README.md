@@ -12,7 +12,7 @@ These are podcasts that I've found truly insightful. It's a growing list. I cann
 
 -[What is Technology Doing to Us?](https://www.samharris.org/podcast/item/what-is-technology-doing-to-us)
 
--[Realiy and the Imagination](https://www.samharris.org/podcast/item/reality-and-the-imagination)
+-[Reality and the Imagination](https://www.samharris.org/podcast/item/reality-and-the-imagination)
 
 -[Living with Robots](https://www.samharris.org/podcast/item/living-with-robots)
 
